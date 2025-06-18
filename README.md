@@ -1,14 +1,5 @@
-***Python Code For Text To Audio In Android***
+**Python Code For Text To Audio In Android**
 
-**Install pydroid 3**
-
-
-
-**Website Link :** https://pydroid.app/
-
-**Play Store Link :** https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&pcampaignid=web_share
-
-**App Store Link :** https://apps.apple.com/us/app/python3ide/id1357215444
 
 
     import tkinter as tk
@@ -71,6 +62,20 @@
     exit_button.place(relx=1.0, rely=1.0, anchor='se', x=-10, y=-10)
 
     root.mainloop()
+
+
+
+**Install pydroid 3 (App)**
+
+
+
+* *Website Link :* https://pydroid.app/
+
+* *Play Store Link :* https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&pcampaignid=web_share
+
+* *App Store Link :* https://apps.apple.com/us/app/python3ide/id1357215444
+
+
 
 
 **How to install Python Lbrary**
