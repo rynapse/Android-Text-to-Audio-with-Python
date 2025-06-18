@@ -80,20 +80,30 @@
 
 **How to install Python Lbrary**
 
-  1.Open CMD or Terminal 
- 
-  2.Run This Code
+1) Open the Pydroid 3 app.
+
+2) Tap the three horizontal lines (☰) in the top-left corner.
+
+3) From the sidebar menu, tap "Terminal" or "Pydroid Terminal".
+
+4) Type This Code 👇
+
   
-    pip install gTTS
+       pip install gTTS
 
 **After Installing Library
 Run In Python**
 
 **How to Remove Python Library**
   
-   1.Open CMD or Terminal
-   
-   2.Run This Code
+1) Open the Pydroid 3 app.
 
-    pip uninstall gTTS
+2) Tap the three horizontal lines (☰) in the top-left corner.
+
+3) From the sidebar menu, tap "Terminal" or "Pydroid Terminal".
+
+4) Type This Code 👇
+
+
+       pip uninstall gTTS
 
