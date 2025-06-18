@@ -91,8 +91,6 @@
   
        pip install gTTS
 
-**After Installing Library
-Run In Python**
 
 **How to Remove Python Library**
   
