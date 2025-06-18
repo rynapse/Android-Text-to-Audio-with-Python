@@ -1,4 +1,9 @@
-**Python Code For Text To Audio**
+***Python Code For Text To Audio In Android***
+
+**Install pydroid 3**
+**Website Link :** https://pydroid.app/
+**Play Store Link :** https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&pcampaignid=web_share
+
 
     import tkinter as tk
     from gtts import gTTS
