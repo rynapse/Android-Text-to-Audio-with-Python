@@ -73,8 +73,6 @@
 
 * *Play Store Link :* https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&pcampaignid=web_share
 
-* *App Store Link :* https://apps.apple.com/us/app/python3ide/id1357215444
-
 
 
 
